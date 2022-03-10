@@ -31,6 +31,11 @@ The image below describe the input text file </br>
 The image below describe the output text file </br> 
 ![alt text](https://github.com/d-n155/K-means/blob/main/Images/output.JPG)
 
+### VISUALIZATION: 
+![ScreenShot](https://github.com/d-n155/K-means/blob/main/Images/input1.JPG)
+![ScreenShot](https://github.com/d-n155/K-means/blob/main/Images/input2.JPG)
+![ScreenShot](https://github.com/d-n155/K-means/blob/main/Images/input3.JPG)
+![ScreenShot](https://github.com/d-n155/K-means/blob/main/Images/input4.JPG)
 
 ###WHAT'S NEXT? </br>
 An implementation of a GUI where users can visualize the 2-dimensional data as well as the clustering result. 
