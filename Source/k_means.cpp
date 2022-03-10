@@ -23,7 +23,7 @@ struct hash_pair {
 }; 
 
 /*
-Purpose: The K_means functions contains some functionality like: 
+Purpose: The K_means class contains some functionality like: 
             1. Read in text file contains all the data points 
             2. Initialize random centroids 
             3. Clusters data points
